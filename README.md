@@ -101,7 +101,7 @@ Notebook: silver_transformation.ipynb
 - Year-over-year yield analysis
 Notebook: gold_crop_production_trend.ipynb
 
-![Agriculture Analytics Architecture](image-path-or-url)
+![Agriculture Analytics Architecture](https://github.com/ashritham-23/Capstone_Project/blob/main/result_images/architecture.png)
 
 ## ⏱️ Workflow Automation using Apache Airflow
 The complete ETL pipeline is orchestrated using Apache Airflow, ensuring reliable and automated execution.
@@ -113,7 +113,7 @@ Key DAG Features:
 
 DAG File: agriculture_pipeline.py
 
-![Airflow automation](image-path-or-url)
+![Airflow automation](https://github.com/ashritham-23/Capstone_Project/blob/main/result_images/airflow_dag.png)
 
 ## 📈 Power BI Dashboards
 
@@ -124,21 +124,21 @@ DAG File: agriculture_pipeline.py
 - Year-wise production trends
 - Season-wise production distribution
 
-![Dashboard 1](image-path-or-url)
+![Dashboard 1](https://github.com/ashritham-23/Capstone_Project/blob/main/result_images/dashboard_1.png)
 
 2️⃣ Yield & Weather Performance
 - Yield comparison across states and districts
 - Identification of high-yield and low-yield regions
 - Rainfall and climate impact on crop yield
 
-![Dashboard 2](image-path-or-url)
+![Dashboard 2](https://github.com/ashritham-23/Capstone_Project/blob/main/result_images/dashboard_2.png)
 
 3️⃣ Soil & Market Impact Analysis
 - KPI cards for production and yield metrics
 - Soil health indicators vs yield performance
 - Seasonal market price trends across crops
 
-![Dashboard 3](image-path-or-url)
+![Dashboard 3](https://github.com/ashritham-23/Capstone_Project/blob/main/result_images/dashboard_3.png)
 
 Power BI File: Capstone_Project.pbix
 
